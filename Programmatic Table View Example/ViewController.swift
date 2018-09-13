@@ -46,4 +46,3 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         print(self.data[indexPath.row])
     }
 }
-
